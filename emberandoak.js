@@ -1,4 +1,7 @@
-console.log("hello");
+
+
+
+console.log("hello this is a test");
 
 gsap.registerPlugin(ScrollTrigger);
 
